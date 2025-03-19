@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Science, Machine Learning, and Data Engineering.
 - 🌱 I’m currently learning SAS, Power BI, and how to build scalable data pipelines.
 - 💞️ I’m looking to collaborate on projects related to data analysis, predictive modeling, and cloud solutions.
-- 📫 How to reach me  [LinkedIn](https://www.linkedin.com/in/thurin-kenfack/) | [Email](mailto:your.email@example.com)
+- 📫 How to reach me  [LinkedIn](
+ https://www.linkedin.com/in/thurin-kenfack-090209239 /) | [Email](mailto:kenfackthurinfranck@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love football and enjoy analyzing Ligue 1 match data!
 
